@@ -16,7 +16,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.1</generator>
 	<item>
 		<title>
 		Phản hồi cho Auctor gravida enim bởi Khoa Nguyễn		</title>
@@ -34,7 +34,7 @@
 		<item>
 		<title>
 		Phản hồi cho Chào tất cả mọi người! bởi A WordPress Commenter		</title>
-		<link>https://bg-kos.github.io/mywordpress/2022/08/22/chao-moi-nguoi/#comment-1</link>
+		<link>https://bg-kos.github.io/mywordpress/chao-moi-nguoi/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Mon, 22 Aug 2022 08:45:28 +0000</pubDate>

@@ -18,11 +18,11 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.1</generator>
 	<item>
 		<title>Chào tất cả mọi người!</title>
-		<link>https://bg-kos.github.io/mywordpress/2022/08/22/chao-moi-nguoi/</link>
-					<comments>https://bg-kos.github.io/mywordpress/2022/08/22/chao-moi-nguoi/#comments</comments>
+		<link>https://bg-kos.github.io/mywordpress/chao-moi-nguoi/</link>
+					<comments>https://bg-kos.github.io/mywordpress/chao-moi-nguoi/#comments</comments>
 		
 		<dc:creator><![CDATA[Khoa Nguyễn]]></dc:creator>
 		<pubDate>Mon, 22 Aug 2022 08:45:28 +0000</pubDate>
@@ -34,7 +34,7 @@
 <p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://bg-kos.github.io/mywordpress/2022/08/22/chao-moi-nguoi/feed/</wfw:commentRss>
+					<wfw:commentRss>https://bg-kos.github.io/mywordpress/chao-moi-nguoi/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
